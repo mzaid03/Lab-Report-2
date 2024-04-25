@@ -19,7 +19,7 @@ PRIVATE KEY
 
 PUBLIC KEY
 
-![IMage](.png)
+![IMage](public.png)
 
 NO PASSWORD LOGIN
 
