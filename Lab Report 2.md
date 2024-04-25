@@ -15,7 +15,7 @@ Part 2:
 
 PRIVATE KEY
 
-![IMage](private(2).png)
+![IMage](private2.png)
 
 PUBLIC KEY
 
