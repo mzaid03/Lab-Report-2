@@ -1,1 +1,4 @@
-
+![Image](labreport2.2.png) 
+1. The method that was called when I accessed the `URL` `/add-message?s=Hello&user=jpolitz` is the `handleRequest` method in the `Handler` class.
+2. The `handleRequest` method takes a `URI` object representing the URL as an argument and uses the `chat` field, a `StringBuilder`, to accumulate chat messages.
+3. The `chat` field of the `Handler` class is appended with the new message `jpolitz: Hello\n` as a result of the request `/add-message?s=Hello&user=jpolitz`.
