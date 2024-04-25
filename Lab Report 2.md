@@ -1,5 +1,7 @@
-Part 1:
 
+
+
+Part 1:
 
 ![Image](labreport2.2.png)
 1. The method that was called when I accessed the `URL` `/add-message?s=Hello&user=jpolitz` is the `handleRequest` method in the `Handler` class.
