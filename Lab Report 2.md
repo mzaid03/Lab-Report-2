@@ -20,11 +20,11 @@ Part 2:
 
 PRIVATE KEY
 
-![IMage](private2.png)
+![IMage](15l1.png)
 
 PUBLIC KEY
 
-![IMage](public.png)
+![IMage](15l2.png)
 
 NO PASSWORD LOGIN
 
